@@ -84,6 +84,13 @@ API для управления виртуальным-кошельком.
 Веб-сервис для управления движением денежных средств (ДДС).  
 [https://github.com/MLKolt/DDS_project](https://github.com/MLKolt/DDS_project)
 
+11. Сервис формата "Вопрос-Ответ":  
+API для форум-сервиса.  
+[[https://github.com/MLKolt/DDS_project](https://github.com/MLKolt/DDS_project)](https://github.com/MLKolt/Question-Answer_API)
+
+12. Playlists API:  
+REST-сервис для управления музыкальным каталогом.  
+[[https://github.com/MLKolt/DDS_project](https://github.com/MLKolt/DDS_project)](https://github.com/MLKolt/Music_API)
 ---
 
 ## Образование:
