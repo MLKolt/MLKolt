@@ -82,11 +82,11 @@ API для управления виртуальным-кошельком.
 
 11. Сервис формата "Вопрос-Ответ":  
 API для форум-сервиса.  
-[[https://github.com/MLKolt/DDS_project](https://github.com/MLKolt/DDS_project)](https://github.com/MLKolt/Question-Answer_API)
+[https://github.com/MLKolt/Question-Answer_API](https://github.com/MLKolt/Question-Answer_API)
 
 12. Playlists API:  
 REST-сервис для управления музыкальным каталогом.  
-[[https://github.com/MLKolt/DDS_project](https://github.com/MLKolt/DDS_project)](https://github.com/MLKolt/Music_API)
+[https://github.com/MLKolt/Music_API](https://github.com/MLKolt/Music_API)
 ---
 
 ## Образование:
@@ -97,7 +97,9 @@ REST-сервис для управления музыкальным катал�
 
 ---
 ## Начуные публикации:
+
 Всероссийская научно-техническая конференция молодых ученых Автоматизированные системы управления и информационные технологии (АСУИТ). «Разработка и экспериментальная апробация модуля обнаружения логических атак в Django-приложениях на основе OWASP AppSensor»
+
 ---
 
 ## Книги / Изученные материалы / Сертификаты / Курсы:
