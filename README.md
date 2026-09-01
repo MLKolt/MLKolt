@@ -88,12 +88,12 @@ API для форум-сервиса.
 REST-сервис для управления музыкальным каталогом.  
 [https://github.com/MLKolt/Music_API](https://github.com/MLKolt/Music_API)
 
-13. Auth RBAC:
-REST API с собственной JWT-аутентификацией и ролевой моделью управления доступом (RBAC).
+13. Auth RBAC: 
+REST API с собственной JWT-аутентификацией и ролевой моделью управления доступом (RBAC). 
 [https://github.com/MLKolt/Auth_RBAC](https://github.com/MLKolt/Auth_RBAC)
  
-14. Async Wallet API:
-Асинхронный REST API электронного кошелька на FastAPI с безопасной обработкой конкурентных операций.
+14. Async Wallet API: 
+Асинхронный REST API электронного кошелька на FastAPI с безопасной обработкой конкурентных операций. 
 [https://github.com/MLKolt/async-wallet-api](https://github.com/MLKolt/async-wallet-api)
 ---
 
