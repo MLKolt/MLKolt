@@ -60,39 +60,39 @@ C реализацией аутентификации, корзины и отл�
 C корзиной, оплатой через Stripe, купонами, CSV и PDF экспортом, рекомендациями и Redis.  
 [https://github.com/MLKolt/Django-shop-example-2](https://github.com/MLKolt/Django-shop-example-2)
 
-6. Платформа электронного обучения:  
+5. Платформа электронного обучения:  
 Система курсов с модулями, регистрацией студентов, REST API, чат-сервером через WebSocket и Django Channels.  
 [https://github.com/MLKolt/Django-educa-example](https://github.com/MLKolt/Django-educa-example)
 
-7. Barter-платформа:  
+6. Barter-платформа:  
 Монолитное веб-приложение на Django для организации обмена вещами между пользователями.   
 [https://github.com/MLKolt/Barter_project](https://github.com/MLKolt/Barter_project)
 
-8. Древовидное меню:  
+7. Древовидное меню:  
 Реализация древовидного меню с помощью кастомного шаблонного тега в Django Python.  
 [https://github.com/MLKolt/Custom-tree_project](https://github.com/MLKolt/Custom-tree_project)
 
-9. API виртуального кошелька:  
+8. API виртуального кошелька:  
 API для управления виртуальным-кошельком.  
 [https://github.com/MLKolt/Wallets-API_project](https://github.com/MLKolt/Wallets-API_project)  
 
-10. ДДС платформа:  
+9. ДДС платформа:  
 Веб-сервис для управления движением денежных средств (ДДС).  
 [https://github.com/MLKolt/DDS_project](https://github.com/MLKolt/DDS_project)
 
-11. Сервис формата "Вопрос-Ответ":  
+10. Сервис формата "Вопрос-Ответ":  
 API для форум-сервиса.  
 [https://github.com/MLKolt/Question-Answer_API](https://github.com/MLKolt/Question-Answer_API)
 
-12. Playlists API:  
+11. Playlists API:  
 REST-сервис для управления музыкальным каталогом.  
 [https://github.com/MLKolt/Music_API](https://github.com/MLKolt/Music_API)
 
-13. Auth RBAC:  
+12. Auth RBAC:  
 REST API с собственной JWT-аутентификацией и ролевой моделью управления доступом (RBAC).  
 [https://github.com/MLKolt/Auth_RBAC](https://github.com/MLKolt/Auth_RBAC)
  
-14. Async Wallet API:  
+13. Async Wallet API:  
 Асинхронный REST API электронного кошелька на FastAPI с безопасной обработкой конкурентных операций.  
 [https://github.com/MLKolt/async-wallet-api](https://github.com/MLKolt/async-wallet-api)
 ---
